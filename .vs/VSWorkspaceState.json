@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\soem",
+    "\\test",
+    "\\test\\linux",
+    "\\test\\linux\\red_test",
+    "\\test\\linux\\simple_test",
+    "\\test\\linux\\simple_test\\out"
+  ],
+  "SelectedNode": "\\test\\linux\\simple_test\\simple_test.c",
+  "PreviewInSolutionExplorer": false
+}
