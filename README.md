@@ -1,3 +1,16 @@
+# Panasonic Servo interface over Ethercat implemented using SOEM Library
+
+This software allows selection of direction, torque, velocity of the servo Minas A6. 
+Base code is SOEM. Driver implementation and application layer added for implementation.
+For any similar implementation requirements contact: aditya.ayachit@ianet.in
+For video of this in action check out: https://ianet.in/mechatronictestequipment/
+
+
+
+
+
+
+
 # Simple Open EtherCAT Master Library
 [![Build Status](https://github.com/OpenEtherCATsociety/SOEM/workflows/build/badge.svg?branch=master)](https://github.com/OpenEtherCATsociety/SOEM/actions?workflow=build)
 
